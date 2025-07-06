@@ -1,4 +1,4 @@
-# Breast Cancer Classification Project
+# Breast Cancer Classification using Machine Learning
 
 ## Project Overview
 
